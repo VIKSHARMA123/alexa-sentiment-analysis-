@@ -6,5 +6,8 @@
 * **Model accuracy:** 89.84%
 
 
+# Streamlit link
+https://crfehpqzqvhhwrlmehfecl.streamlit.app/
+
 
 
